@@ -2,50 +2,44 @@
 
 ### 🚀 Senior DevOps & Middleware Engineer | Senior Consultant
 
-**8+ Years of IT Experience | AWS | DevOps | Kubernetes | Middleware**
+**8+ Years of IT Experience | AWS | DevOps | Middleware | Kubernetes**
 
-Experienced IT professional with 8+ years of expertise in **Middleware Administration, DevOps Engineering, AWS Cloud Infrastructure, CI/CD Automation and Production Support**.
+I am an experienced IT professional specializing in Middleware Administration, DevOps Engineering, Cloud Infrastructure, Automation and CI/CD.
 
-Currently working as a Senior Consultant, specializing in enterprise application environments, middleware administration, infrastructure automation, cloud technologies and deployment management.
+Currently working as a **Senior Consultant**, with hands-on experience in enterprise application environments, infrastructure automation, deployment management and production support.
 
 ---
 
-## 💻 Technical Skills
+## 🧑‍💻 Technical Expertise
 
-### ☁️ Cloud & AWS
-- Amazon EC2, IAM, S3, VPC
-- Amazon EKS
-- Route 53
-- Application Load Balancer (ALB)
-- Network Load Balancer (NLB)
-- Auto Scaling Groups
-- Security Groups & Network ACLs
-- CloudWatch
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 
-### ⚙️ DevOps & CI/CD
-- Jenkins
-- GitHub Actions
-- Docker
-- Kubernetes
-- Terraform
-- AWS CloudFormation
-- Ansible
-- Git & GitHub
-- Shell Scripting
+### ⚙️ DevOps & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏢 Middleware & Application Servers
-- IBM WebSphere Application Server (WAS)
-- Oracle WebLogic Server
-- Apache Tomcat
-- Internet Information Services (IIS)
+![IBM WebSphere](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-FF6600?style=for-the-badge&logo=oracle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🔧 DevOps Tools & Technologies
-- **Infrastructure as Code:** Terraform, CloudFormation
+### 🔧 Other Technologies
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
 - **Configuration Management:** Ansible
-- **Container Orchestration:** Kubernetes, Amazon EKS
-- **Artifact Management:** Nexus, JFrog Artifactory
-- **Monitoring & Alerts:** AWS CloudWatch, Slack Notifications
-- **Automation:** Shell Scripting, Jenkins Pipelines
+- **Artifact Management:** Nexus, JFrog
+- **Monitoring:** AWS CloudWatch, Slack Alerts
+- **Scripting:** Shell Scripting
 
 ---
 
@@ -53,38 +47,36 @@ Currently working as a Senior Consultant, specializing in enterprise application
 
 | Project | Technologies |
 |---|---|
-| AWS Infrastructure Provisioning | AWS, Terraform |
-| EKS Cluster Setup & Management | EKS, Kubernetes, eksctl |
-| Containerization & Management | Docker |
+| AWS Infrastructure Automation | AWS, Terraform |
+| EKS Cluster Deployment | AWS, Kubernetes, eksctl |
+| Containerization | Docker |
 | CI/CD Pipeline Automation | Jenkins, GitHub Actions |
-| Infrastructure Automation | Ansible |
-| Kubernetes Application Deployment | Pods, Services, ConfigMaps, Secrets, Storage |
-| Middleware Administration | WebSphere, WebLogic, Tomcat |
-| AWS Networking & Load Balancing | VPC, ALB, NLB, Route 53 |
+| Configuration Automation | Ansible |
+| Middleware Administration | IBM WebSphere, WebLogic, Tomcat |
+| Kubernetes Deployments | Pods, Services, ConfigMaps, Secrets, Storage |
 
 ---
 
-## ☁️ AWS Core Services
+## ☁️ AWS Services
 
-- Compute: EC2, Auto Scaling
-- Networking: VPC, Subnets, Route Tables
-- Security: IAM, Security Groups, NACLs
-- Storage: S3
-- Load Balancing: ALB, NLB
-- DNS: Route 53
-- Monitoring: CloudWatch
-- Containers: Amazon EKS
+- EC2, IAM, S3, VPC
+- Application Load Balancer (ALB)
+- Network Load Balancer (NLB)
+- Auto Scaling Groups
+- Route 53
+- CloudWatch
+- Elastic Kubernetes Service (EKS)
+- Security Groups and Network ACLs
 
 ---
 
 ## 📚 Currently Learning & Exploring
 
 - Advanced Kubernetes & EKS
-- Argo CD & GitOps
+- Argo CD and GitOps
 - DevSecOps
 - Advanced AWS Architecture
-- Infrastructure Automation
-- CI/CD Best Practices
+- CI/CD Automation
 
 ---
 
@@ -98,13 +90,12 @@ Currently working as a Senior Consultant, specializing in enterprise application
 
 ## 🤝 Let's Connect
 
-💼 Interested in collaborating on DevOps, AWS Cloud, Kubernetes, Middleware and Automation projects.
+[![GitHub](https://img.shields.io/badge/GitHub-narayana6-181717?style=for-the-badge&logo=github)](https://github.com/narayana6)
 
-- **GitHub:** [github.com/narayana6](https://github.com/narayana6)
-- **LinkedIn:** Add your LinkedIn profile URL
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ **Thanks for visiting my GitHub profile!**
 
-**Building • Automating • Deploying • Learning • Improving**
+*Building | Automating | Learning | Improving*
