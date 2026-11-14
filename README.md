@@ -79,9 +79,6 @@ Currently working as a **Senior Consultant**, with hands-on experience in enterp
 - CI/CD Automation
 
 ---
-
-## 📊 GitHub Statistics
-
 ## 📊 GitHub Statistics
 
 <p align="center">
