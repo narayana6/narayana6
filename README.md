@@ -1,72 +1,96 @@
-# 👋 Hi, I'm a Senior DevOps & Middleware Engineer
+# 👋 Hi, I'm Narayana!
 
-### Senior Consultant | WebSphere | AWS | DevOps | Kubernetes
+🚀 **Senior DevOps & Middleware Engineer | Senior Consultant**
 
-🚀 IT professional with **8+ years of experience** in Middleware Administration, DevOps Engineering, Cloud Infrastructure and Automation.
+**8+ Years of IT Experience | AWS | DevOps | Kubernetes | Middleware**
 
----
-
-## 💻 Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Cloud | AWS, EC2, VPC, IAM, S3, ELB, Route 53, EKS |
-| Middleware | IBM WebSphere, WebLogic, Tomcat, IIS |
-| Containers | Docker, Kubernetes |
-| CI/CD | Jenkins, GitHub Actions |
-| IaC | Terraform, CloudFormation |
-| Automation | Ansible, Shell Scripting |
-| Version Control | Git, GitHub |
-| Artifacts | Nexus, JFrog |
-| Monitoring | CloudWatch, Slack Alerts |
+I am an experienced IT professional specializing in **DevOps Engineering, Cloud Infrastructure, Middleware Administration, CI/CD Automation, and Production Support**. Currently working as a **Senior Consultant**, I have extensive hands-on experience in enterprise application environments, infrastructure automation, deployment management, and cloud-native technologies.
 
 ---
 
-## 🛠️ Hands-on Projects
+## 🧑‍💻 Technical Expertise
 
-- AWS infrastructure provisioning using Terraform
-- EKS cluster deployment and management
-- Docker image creation and container management
-- Jenkins CI/CD pipeline implementation
-- GitHub Actions automation
-- Kubernetes deployments and services
-- Ansible automation and configuration management
-- IBM WebSphere Application Server administration
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, IAM, S3, VPC, EKS)
+- Route 53
+- Auto Scaling Groups
+- Application Load Balancer (ALB)
+- Network Load Balancer (NLB)
+- Security Groups & NACLs
+
+### ⚙️ DevOps & Automation
+- Jenkins
+- GitHub Actions
+- Docker
+- Kubernetes
+- Terraform
+- AWS CloudFormation
+- Ansible
+
+### 🏢 Middleware & Application Servers
+- IBM WebSphere Application Server
+- Oracle WebLogic Server
+- Apache Tomcat
+
+### 🔧 Other Technologies
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
+- **Configuration Management:** Ansible
+- **Artifact Management:** Nexus, JFrog Artifactory
+- **Monitoring:** AWS CloudWatch, Slack Alerts
+- **Scripting:** Shell Scripting
 
 ---
 
-## ☁️ AWS Skills
+## 🚀 Hands-on Projects
 
-- EC2, IAM, S3, VPC
-- Application Load Balancer and Network Load Balancer
-- Auto Scaling
+| Project | Technologies |
+|----------|-------------|
+| AWS Infrastructure Automation | AWS, Terraform |
+| EKS Cluster Deployment | AWS EKS, Kubernetes, eksctl |
+| Containerization | Docker |
+| CI/CD Pipeline Automation | Jenkins, GitHub Actions |
+| Configuration Automation | Ansible |
+| Middleware Administration | IBM WebSphere, WebLogic, Tomcat |
+| Kubernetes Deployments | Pods, Services, ConfigMaps, Secrets, Storage |
+
+---
+
+## ☁️ AWS Services
+
+- EC2
+- IAM
+- S3
+- VPC
 - Route 53
 - CloudWatch
-- EKS
+- EKS (Elastic Kubernetes Service)
+- Application Load Balancer (ALB)
+- Network Load Balancer (NLB)
+- Auto Scaling Groups
+- Security Groups & Network ACLs
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning
 
-- Advanced Kubernetes
-- Argo CD
+- Advanced Kubernetes & EKS
+- Argo CD & GitOps
 - DevSecOps
-- AWS Advanced Architecture
-- GitOps
+- Advanced AWS Architecture
+- CI/CD Best Practices
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<!-- Add GitHub Stats Card Here -->
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- LinkedIn: Add your LinkedIn URL
-- GitHub: https://github.com/YOUR_USERNAME
+💼 Open to collaborating on DevOps, Cloud, Kubernetes, and Automation projects.
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my GitHub profile!**
+
+*Building • Automating • Learning • Improving*
