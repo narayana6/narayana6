@@ -83,7 +83,10 @@ I am an experienced IT professional specializing in **DevOps Engineering, Cloud 
 
 ## 📊 GitHub Statistics
 
-<!-- Add GitHub Stats Card Here -->
+🤝 Connect With Me
+- LinkedIn: Add your LinkedIn URL
+- GitHub: https://github.com/narayana6
+⭐ Thanks for visiting my profile!   want to best
 
 ---
 
