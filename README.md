@@ -82,10 +82,12 @@ Currently working as a **Senior Consultant**, with hands-on experience in enterp
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 ---
 
 ## 🤝 Let's Connect
