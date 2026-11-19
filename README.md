@@ -1,27 +1,28 @@
 # 👋 Hi, I'm Narayana
 
-### 🚀 Senior DevOps & Middleware Engineer · AWS Cloud Engineer · Senior Consultant
+### 🚀 Senior DevOps & Middleware Engineer | AWS Cloud Engineer | Senior Consultant
 
-**8+ years of IT experience · AWS · Terraform · Kubernetes · Docker · Middleware**
+**8+ Years of IT Experience | AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | IBM WebSphere**
 
-![Profile Views](https://komarev.com/ghpvc/?username=narayana6&label=Profile%20Views&color=blue&style=flat)
 
-> I build and run cloud platforms end to end — provisioning AWS infrastructure as code, containerizing applications, automating delivery pipelines, and keeping mission-critical middleware alive in production.
+
+> Senior DevOps & Middleware Engineer with 8+ years of IT experience in enterprise environments. Hands-on experience in AWS cloud infrastructure, Infrastructure as Code, containerization, Kubernetes, CI/CD automation and enterprise middleware administration. Passionate about building scalable, reliable and automated infrastructure platforms.
 
 ---
 
 ## 💡 About Me
 
-- 8+ years of IT experience in large enterprise environments
-- Senior Consultant across Middleware and DevOps disciplines
-- Hands-on AWS infrastructure provisioning and lifecycle management
-- Infrastructure as Code with Terraform and CloudFormation
-- Kubernetes cluster management and application deployments
-- Docker image creation and container lifecycle management
-- CI/CD automation with Jenkins and GitHub Actions
-- Configuration management and automation with Ansible
-- IBM WebSphere, Oracle WebLogic and Apache Tomcat administration
-- Enterprise production support, incident response and troubleshooting
+- 8+ years of IT experience in enterprise environments.
+- Currently working as a Senior Consultant at BNP.
+- AWS infrastructure provisioning and cloud operations.
+- Infrastructure as Code using Terraform and CloudFormation.
+- Kubernetes and Amazon EKS cluster management.
+- Docker image creation, containerization and orchestration.
+- CI/CD pipeline automation using Jenkins and GitHub Actions.
+- Configuration management using Ansible.
+- IBM WebSphere Application Server administration.
+- Oracle WebLogic and Apache Tomcat administration.
+- Linux administration, shell scripting and production troubleshooting.
 
 ---
 
@@ -29,28 +30,28 @@
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+\
+
 
 ### 🚀 DevOps & Containerization
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+
+\
+
 
 ### 🏢 Middleware & Application Servers
 
-![WebSphere](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+\
+
 
 ### 🔧 Other Tools
 
 - Git and GitHub
-- Linux administration and shell scripting
+- Linux administration and Shell scripting
 - Nexus Repository
 - JFrog Artifactory
 - AWS CloudWatch
@@ -61,120 +62,121 @@
 ## 🚀 Featured Projects
 
 ### 1. AWS Infrastructure Automation
-**Stack:** AWS, Terraform
 
-Modular VPC environments provisioned entirely as code — no console clicking, fully reproducible.
+**Technologies:** AWS | Terraform | VPC | EC2 | IAM | S3
 
-- VPC and subnet provisioning across multiple availability zones
-- Internet Gateway and route table configuration
-- Security Groups and network segmentation
-- Reusable Terraform modules for repeatable environments
+- Automated AWS infrastructure provisioning using Terraform.
+- VPC and subnet creation across multiple Availability Zones.
+- Internet Gateway and route table configuration.
+- Security Group and network segmentation.
+- Reusable Terraform modules.
+- S3 remote backend and state locking.
 
 ### 2. Kubernetes & AWS EKS
-**Stack:** AWS EKS, Kubernetes, eksctl
 
-Cluster lifecycle from provisioning to day-two operations for containerized workloads.
+**Technologies:** AWS EKS | Kubernetes | eksctl | kubectl
 
-- EKS cluster deployment and management with eksctl
-- Pods, Deployments and Services
-- ConfigMaps and Secrets management
-- Persistent Volumes and storage classes
-- Kubernetes troubleshooting and workload debugging
+- EKS cluster provisioning and management.
+- Kubernetes Pods, Deployments and Services.
+- ConfigMaps and Secrets management.
+- Persistent Volumes and Storage Classes.
+- Kubernetes troubleshooting and workload debugging.
+- EKS networking and cluster operations.
 
 ### 3. Docker Containerization
-**Stack:** Docker, Linux
 
-Application packaging and runtime management for consistent builds across environments.
+**Technologies:** Docker | Linux | Docker Compose
 
-- Docker image creation and lifecycle management
-- Container lifecycle and health management
-- Docker networking and volume configuration
-- Dockerfile authoring and multi-container applications
+- Dockerfile creation and image management.
+- Container lifecycle management.
+- Docker networking and volumes.
+- Multi-container application deployment.
+- Docker Compose configuration.
+- Container troubleshooting and optimization.
 
 ### 4. CI/CD Pipeline Automation
-**Stack:** Jenkins, GitHub Actions, Docker
 
-Delivery pipelines that take a commit to a running container without manual steps.
+**Technologies:** Jenkins | GitHub Actions | Docker | Nexus
 
-- Automated build and deployment pipelines
-- Git-based workflow automation
-- Docker image build and registry delivery
-- Deployment automation with notification hooks
+- Automated CI/CD pipeline development.
+- Git-based workflow automation.
+- Docker image build and registry integration.
+- Automated deployment workflows.
+- Nexus artifact repository integration.
+- Slack notifications and pipeline monitoring.
 
-### 5. Infrastructure Automation
-**Stack:** Terraform, Ansible, AWS
+### 5. Infrastructure & Configuration Automation
 
-IaC plus configuration management, so servers come up correct on their first boot.
+**Technologies:** Terraform | Ansible | AWS
 
-- Infrastructure as Code foundations
-- Automated server configuration
-- Reusable Terraform modules
-- Ansible playbook development
+- Infrastructure provisioning using Terraform.
+- Configuration management using Ansible.
+- Automated server setup and configuration.
+- Reusable playbooks and Terraform modules.
+- AWS infrastructure automation.
 
 ### 6. Middleware Administration
-**Stack:** IBM WebSphere, Oracle WebLogic, Apache Tomcat
 
-Enterprise application server administration under production pressure.
+**Technologies:** IBM WebSphere | Oracle WebLogic | Apache Tomcat | Linux
 
-- Application server installation, configuration and tuning
-- Application deployments and release management
-- Server configuration and troubleshooting
-- Middleware production support and incident resolution
+- IBM WebSphere Application Server administration.
+- WebSphere installation, configuration and maintenance.
+- Application deployment and release management.
+- WebLogic and Tomcat administration.
+- Middleware troubleshooting and production support.
+- Application server monitoring and performance troubleshooting.
 
 ---
 
 ## ☁️ AWS Expertise
 
-| Category | Services |
-|---|---|
-| Compute | EC2, Auto Scaling |
-| Networking | VPC, Subnets, Route Tables |
-| Security | IAM, Security Groups, NACLs |
-| Storage | S3 |
-| Load Balancing | ALB, NLB |
-| DNS | Route 53 |
-| Monitoring | CloudWatch |
-| Containers | Amazon EKS |
+| Category       | Services                    |
+| -------------- | --------------------------- |
+| Compute        | EC2, Auto Scaling           |
+| Networking     | VPC, Subnets, Route Tables  |
+| Security       | IAM, Security Groups, NACLs |
+| Storage        | S3                          |
+| Load Balancing | ALB, NLB                    |
+| DNS            | Route 53                    |
+| Monitoring     | CloudWatch                  |
+| Containers     | Amazon EKS                  |
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Kubernetes and EKS
-- Argo CD and GitOps
-- DevSecOps practices
-- Advanced AWS architecture
-- Platform engineering
-- Advanced CI/CD automation
+- Advanced Kubernetes and EKS.
+- Argo CD and GitOps.
+- DevSecOps practices.
+- Advanced AWS architecture.
+- Platform Engineering.
+- Advanced Terraform and CI/CD automation.
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=narayana6\&show_icons=true\&theme=tokyonight\&hide_border=true)" width="48%" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6\&layout=compact\&theme=tokyonight\&hide_border=true)" width="48%" /> \</p>
 
 ---
 
 ## 🎯 2027 Career Goals
 
-- AWS Solutions Architect – Professional
-- Kubernetes CKA certification
-- Advanced Terraform and infrastructure automation
-- GitOps implementation with Argo CD
-- Open source contributions
-- DevSecOps and platform engineering depth
+- AWS Solutions Architect – Professional.
+- Kubernetes CKA Certification.
+- Advanced Terraform and Infrastructure Automation.
+- GitOps implementation using Argo CD.
+- Open-source contributions.
+- DevSecOps and Platform Engineering.
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 Open to collaborating on AWS, DevOps, Kubernetes, Docker, middleware and automation projects.
+💼 Interested in collaborating on AWS, DevOps, Kubernetes, Docker, Middleware and Infrastructure Automation projects.
 
-- **GitHub:** [github.com/narayana6](https://github.com/narayana6)
-- **LinkedIn:** <!-- TODO: replace with your profile URL, e.g. https://linkedin.com/in/your-handle -->
+- **GitHub:** [https://github.com/narayana6](https://github.com/narayana6)
+- **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
 
