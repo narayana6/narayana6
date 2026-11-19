@@ -4,8 +4,6 @@
 
 **8+ Years of IT Experience | AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | IBM WebSphere**
 
-
-
 > Senior DevOps & Middleware Engineer with 8+ years of IT experience in enterprise environments. Hands-on experience in AWS cloud infrastructure, Infrastructure as Code, containerization, Kubernetes, CI/CD automation and enterprise middleware administration. Passionate about building scalable, reliable and automated infrastructure platforms.
 
 ---
@@ -17,8 +15,8 @@
 - AWS infrastructure provisioning and cloud operations.
 - Infrastructure as Code using Terraform and CloudFormation.
 - Kubernetes and Amazon EKS cluster management.
-- Docker image creation, containerization and orchestration.
-- CI/CD pipeline automation using Jenkins and GitHub Actions.
+- Docker image creation and containerization.
+- CI/CD automation using Jenkins and GitHub Actions.
 - Configuration management using Ansible.
 - IBM WebSphere Application Server administration.
 - Oracle WebLogic and Apache Tomcat administration.
@@ -30,23 +28,19 @@
 
 ### ☁️ Cloud & Infrastructure
 
-
-\
-
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=aws,terraform](https://skillicons.dev/icons?i=aws,terraform)" /> \</p>
 
 ### 🚀 DevOps & Containerization
 
-
-
-
-\
-
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,ansible,git,bash](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,ansible,git,bash)" /> \</p>
 
 ### 🏢 Middleware & Application Servers
 
-
-\
-
+- IBM WebSphere Application Server
+- Oracle WebLogic
+- Apache Tomcat
+- IBM HTTP Server (IHS)
+- Microsoft IIS
 
 ### 🔧 Other Tools
 
@@ -156,7 +150,10 @@
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=narayana6\&show_icons=true\&theme=tokyonight\&hide_border=true)" width="48%" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6\&layout=compact\&theme=tokyonight\&hide_border=true)" width="48%" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=narayana6&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=narayana6\&show_icons=true\&theme=tokyonight\&hide_border=true)" width="48%" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=narayana6\&layout=compact\&theme=tokyonight\&hide_border=true)" width="48%" />
+\</p>
 
 ---
 
@@ -175,7 +172,7 @@
 
 💼 Interested in collaborating on AWS, DevOps, Kubernetes, Docker, Middleware and Infrastructure Automation projects.
 
-- **GitHub:** [https://github.com/narayana6](https://github.com/narayana6)
+- **GitHub:** [narayana6](https://github.com/narayana6)
 - **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
